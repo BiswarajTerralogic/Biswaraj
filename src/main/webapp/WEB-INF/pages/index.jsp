@@ -25,7 +25,7 @@
 <br>
 <br>
 <div class='box'>
-<h1 align="center" style="color:#a3086f;">CHARAN's Test Application...!</h1>
+<h1 align="center" style="color:#a3086f;">Biswaraj's Test Application...!</h1>
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
 <br> 
 <h2 align="center" style="color:green;">Message : ${message}.!</h2>
