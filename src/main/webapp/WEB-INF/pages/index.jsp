@@ -30,7 +30,7 @@
 <br> 
 <h2 align="center" style="color:green;">Message : ${message}.!</h2>
 <br>
-<h2 align="center" style="color:blue;">No. of Hits : ${counter}</h2>	
+<h2 align="center" style="color:yellow;">No. of Hits : ${counter}</h2>	
 </div>
 </body>
 </html>
